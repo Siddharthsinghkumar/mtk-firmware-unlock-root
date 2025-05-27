@@ -149,7 +149,7 @@ scripts\extract_rom.bat
 
 ## Scripts
 
-* `scripts/mediatek_comm.py` — Python tool for BootROM communication and partition unlocking
+* `scripts/mtk.py` — Python tool for BootROM communication and partition unlocking
 * `scripts/extract_rom.bat` — Batch script to dump `system.img`, `boot.img`, and other partitions via `adb`/`fastboot`
 
 ---
